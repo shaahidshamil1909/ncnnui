@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nccnui",
+    "slug": "nccnui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nccnui"
+}
